@@ -1,0 +1,3 @@
+<view class="intro">
+    <view bindtap="goDetail">跳转webview</view>
+</view>
